@@ -28,7 +28,7 @@ Version Control: Git & GitHub
 
 Clone the repository:
 
-git clone https://github.com/your-username/portfolio-website.git
+git clone https://github.com/Ghousiadreams/Portfolio
 
 Navigate to the project directory:
 
