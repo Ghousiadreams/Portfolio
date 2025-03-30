@@ -27,14 +27,14 @@ Version Control: Git & GitHub
 # Installation
 
 Clone the repository:
-
+ ```sh
 git clone https://github.com/Ghousiadreams/Portfolio
-
+ ```
 Navigate to the project directory:
-
+ ```sh
 cd portfolio-website
-
-Open index.html in a browser to view the website.
+ ```
+Open `index.html` in a browser to view the website.
 
 # Future Enhancements
 
